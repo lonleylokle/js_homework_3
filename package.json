@@ -1,0 +1,19 @@
+{
+  "name": "js_hw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.24.1",
+    "fastify-swagger": "^4.12.6",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
